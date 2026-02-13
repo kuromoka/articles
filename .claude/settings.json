@@ -20,5 +20,5 @@
       "Read(./secrets/**)"
     ]
   },
-  "model": "sonnet",
+  "model": "sonnet"
 }
